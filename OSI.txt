@@ -1,0 +1,23 @@
+Section 7:The OSI Model
+36. Section Introduction-Completed
+37. OSI Layer 7: The Application Layer-Completed
+38. OSI Layer 6: The Presentation Layer-Completed
+39. OSI Layer 5: The Session Layer-Completed
+40. OSI Layer 4: The Transport Layer-Completed
+41. OSI Layer 3: The Network Layer-Completed
+42. OSI Layer 2: The Data Link Layer-Completed
+43. OSI Layer 1: The Physical Layer-Completed
+Quiz 6: OSI Model Section Quiz-Completed
+
+Section 8:Introduction to TCP/IP
+44. Section Introduction-Completed
+45. The TCP/IP Protocol Suite-Completed
+46. TCP/IP Protocols-Completed
+47. Types of Communication-Completed
+48. Access Methods: CSMA/CD, CSMA/CA, Token Passing-Completed
+
+Section 9:TCP/IP Internet Layer Protocol
+49. Address Resolution Protocol (ARP)-Completed
+50. Internet Protocol (IPv4)-Completed
+51. Internet Protocol (IPv6)-Completed
+52. Internet Control Message Protocol (ICMP)-Completed
