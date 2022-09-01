@@ -1,2 +1,6 @@
 # git-githup
-this is my computer
+int a,b,c;
+scanf("%d",&a,&b);
+c=a+b;
+printf(c);
+
